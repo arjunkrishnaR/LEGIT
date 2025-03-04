@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+transformers
+requests
+beautifulsoup4
+PyMuPDF
+python-docx
+safetensors
+torch  # Add PyTorch
+jinja2
+pandas
+nltk
+gdown
+scikit-learn
