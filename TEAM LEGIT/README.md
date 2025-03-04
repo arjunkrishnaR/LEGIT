@@ -10,7 +10,7 @@
 ![Docker Image Size](https://img.shields.io/docker/image-size/mohankrishnagr/infosys_text-summarization/final)
 
 # Infosy_Text-Summarization
-A project by <em>Mohan Krishna G R</em>, AI/ML Intern @ Infosys Springboard, Summer 2024.
+A project by <em>TEAM LEGIT </em>,Infosys Springboard, Summer 2024.
 
 ## Contents
 - [Problem Statement](#problem-statement)
